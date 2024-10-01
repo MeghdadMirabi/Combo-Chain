@@ -1,4 +1,4 @@
-# ABAC Based on Blockchain
+# Combo-Chain
 ## Implement access control in a simple iot system using ethereum smart contracts.
 
 This post presents the code used for our paper **"Hierarchical attribute-based access control for IoT using blockchain and smart contracts"**, including the **APSC**, **SRMC**, **SAMC**,**OAMC**, **APMC**, **Oracle**, **JavaScript at the subject**, and **JavaScript at the object**.
