@@ -4,7 +4,7 @@ The Internet of Things (IoT) provides a collaborative environment among differen
 
 This repository presents the code of Combo-Chain, including the **APSC**, **SRMC**, **SAMC**,**OAMC**, **APMC**, **Oracle**, **JavaScript at the subject**, and **JavaScript at the object**.
 
-## Steps to run the code.
+## Steps to run the code:
 1. setup three private Ethereum network.
 2. Deploy the APSC and SRMC on chain1, SAMC and APMC on chain2, and OAMC and APMC on chain3.
 3. Deploy oracle.
