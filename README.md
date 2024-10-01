@@ -11,3 +11,9 @@ This repository presents the code for Combo-Chain, including the **APSC**, **SRM
 4. Register Subject and Object.
 5. Add Subject/Object Attributes.
 6. Add the required information for access control to the smart contracts, e.g., access control policies.
+
+## Publication ##
+
+Vahid Bakhtiary, Meghdad Mirabi, Afshin Salajegheh, Seyed Hossein Erfani. (2023). **Combo-Chain: Towards a Hierarchical Attribute-Based Access Control System for IoT with Smart Contract and Sharding Technique**. Internet of Things 25 (2024): 101080
+<p dir="auto"><a href="https://www.sciencedirect.com/science/article/pii/S2542660524000222">The paper is available here.</a></p>
+
